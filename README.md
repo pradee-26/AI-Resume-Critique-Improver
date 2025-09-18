@@ -85,7 +85,7 @@ ai-resume-critiquer/
 ├── prompts.py           # Prompt templates
 ├── requirements.txt     # Python dependencies
 └── README.md            # This file
-```
+└── Resumes/
 
 ---
 
